@@ -86,7 +86,10 @@ rdr.cleanup()
 from pirc522 import RFID
 import signal
 import time
+### Util usage
+**RFIDUtil** contains a few useful methods for dealing with tags.
 
+```python
 rdr = RFID()
 util = rdr.util()
 # Set util debug to true - it will print what's going on
