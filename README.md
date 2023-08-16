@@ -3,8 +3,6 @@ pi-rc522 consists of two Python classes for controlling an SPI RFID module "RC52
 
 Based on [MFRC522-python](https://github.com/mxgxw/MFRC522-python/blob/master/README.md).
 
-Install using pip:
-```
 pip install pi-rc522
 ```
 
